@@ -4,7 +4,7 @@ By [Vitor Kamada](https://www.linkedin.com/in/vitor-kamada-1b73a078)
 
 E-mail: econometrics.methods@gmail.com
 
-Last updated 8-15-2020
+Last updated 9-15-2020
 
 This repository contains the material for 
 ECO 7110 - Econometrics II taught at Wayne State University (WSU).
@@ -31,15 +31,15 @@ ECO 7110 - Econometrics II taught at Wayne State University (WSU).
 
 > Kamada, Vitor. (2020b). [Causal Inference with Python](https://causal-methods.github.io/Book).
 
-**YouTube Channels:**
+**Videos:**
 
-[**Causal Deep Learning**](https://www.youtube.com/channel/UCVmkoZ7RbcwPRhOQIiWFUyA)
+[**Python for Data Science**](https://www.youtube.com/playlist?list=PLOQU3c_3DSpLyH6OgJALbLLsqAa7ZQE4j)
 
-I started recording videos about Neural Network.
+[**Econometrics Course**](https://www.youtube.com/watch?v=iVCnm7okbD4&list=PLOQU3c_3DSpLTBa0vqPFVwDCqXlXiu49j)
 
-[**Python for Econometrics**](https://www.youtube.com/channel/UCzQyPlkRBYQ4iq8wqEAYo9Q)
+[**Causal Deep Learning (Neural Network)**](https://www.youtube.com/watch?v=ilRxmIslZbI&list=PLOQU3c_3DSpJdzucEvsb4RmARC1jQ2BJe)
 
-I recommend watching my introductory videos, if you have no experience with Python.
+
 
 
 
